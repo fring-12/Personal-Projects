@@ -21,7 +21,6 @@ function App() {
         <Route path="/details" component={Details}></Route>
         <Route path="/cart" component={Cart}></Route>
         <Route component={Default}></Route>
-
       </Switch>
     
     </React.Fragment>

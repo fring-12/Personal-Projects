@@ -25,3 +25,7 @@ body{
 .text-bright{
   color:var(--light-Blue);
 }
+
+/* a{
+  color: #f3f3f3 !important;
+} */
