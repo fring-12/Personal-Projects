@@ -18,10 +18,8 @@ export default class Modal extends Component {
                        return( <ModalContainer>
                             <div className="container">
                                 <div className="row">
-                                    <div id="modal" className="col-8 mx-auto col-md-6 col-lg-4
-                                     text-center text-capitalize p-5">
-                                    <h5>Item added to the cart</h5>
-                                    <img src={img} className="img-fluid"/>
+                                    <div id="modal" className="col-8 mx-auto col-md-6 col-lg-4 text-center text-capitalize">
+                                    <h1>Item added to the cart</h1>
                                     </div>
                                 </div>
                             </div>
