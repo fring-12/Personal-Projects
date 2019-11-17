@@ -32,7 +32,7 @@ export default class Navbar extends Component {
                     <li className="nav-item ml-5">
                         <Link to="/" className="nav-link">
                             products
-                            </Link>
+                        </Link>
                     </li>
                     
                 </ul>
